@@ -1,0 +1,42 @@
+id: ID57FBA37
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-17T13:02:05.443515'
+last_modified: '2022-06-17T13:02:05.443521'
+parser: null
+source_metadata:
+  title: Medicine Buddha
+  language: bo
+  description: 'Texts related to the Medicine Buddha or Bhaiṣajya Guru (sman bla),
+    Lord of Physicians:'
+  volume:
+    f36D0:
+      title: 'Zabchema: Profound Cure, The Practice of Bhaiṣajya-Guru, Lord of Physicians'
+      base_file: f36D0.txt
+      order: 1
+      parent: Practices
+    f5A72:
+      title: 'Making Great Bliss the Path: Visualisation and Mantra Recitation of
+        Medicine Buddha'
+      base_file: f5A72.txt
+      order: 2
+      parent: Sādhanas
+    f4BDC:
+      title: 'Fast Track to Happiness and Peace: A Very Brief Meditation and Recitation
+        of the Medicine Buddha'
+      base_file: f4BDC.txt
+      order: 3
+      parent: Sādhanas
+    f3A20:
+      title: Sādhana of Bhaiṣajya Guru (Medicine Buddha)
+      base_file: f3A20.txt
+      order: 4
+      parent: Sādhanas
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
